@@ -1,0 +1,9 @@
+summary,log_level,user_id,ip_address,endpoint,status_code,response_time,request_id,hour_of_the_day,day_of_the_week
+count,62430,62430,62430,62430,62430,62430,62430,62430,62430
+mean,,,,,439.4622777510812,2.524618789043812,,11.4853275668749,
+stddev,,,,,161.56784812341596,1.355815827281236,,6.912774143850606,
+min,DEBUG,user_1,10.0.1.14,/api/delete,151.0,0.05,00008032-a958-49cb-abd5-c5bb3d5f07d5,0,Friday
+25%,,,,,317.0,1.429,,6,
+50%,,,,,406.0,2.523,,11,
+75%,,,,,576.0,3.623,,17,
+max,WARN,user_99997,192.99.91.118,/api/update,740.0,5.0,fffe507d-ed3a-47e7-8efd-cda05942ca53,23,Wednesday
